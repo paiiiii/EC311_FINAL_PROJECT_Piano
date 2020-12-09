@@ -22,3 +22,6 @@ FPGA will play back what you just play.
 If there is any question, free to contect me, and make any change.
 
 There is more detial in the powerpoint.
+
+this is the demo video
+https://drive.google.com/file/d/16UAYWbGqXCi4bLWinl-BtW6szLObcqDO/view?usp=sharing
